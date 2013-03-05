@@ -1,6 +1,6 @@
 #Fnord Awesome 0.0
 
-Because Font Aweseome is missing an [ADN](https://app.net/) icon
+Because Font Aweseome is missing an [ADN](https://app.net/) icon.
 
 ## License
 - The Fnord Awesome font is licensed under the SIL Open Font License - http://scripts.sil.org/OFL
